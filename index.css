@@ -3,7 +3,7 @@
     padding: 0;
 }
 body{
-    background-image: url(https://github.com/Kalvium-Program/rock-paper-scissors-boilerplate/blob/main/assets/bg.png?raw=true);
+    background-image: url(./assets/bg.png);
     background-size: 100% 100%;
     background-repeat: no-repeat;
 }
